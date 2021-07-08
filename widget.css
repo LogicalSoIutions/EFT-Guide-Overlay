@@ -1,0 +1,73 @@
+.container {
+  display: flex;
+  flex-direction: row; 
+}
+ 
+.Map_Waiting {
+  height: 120px;
+  width: 120px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+}
+ 
+.Map_Complete {
+  height: 120px;
+  width: 120px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  background-color: gray;
+  background-blend-mode: luminosity;
+}
+ 
+.Customs {
+  background-image: url(https://eft.bot/images/eft/customs.png);
+}
+ 
+.Factory {
+  background-image: url(https://eft.bot/images/eft/factory.png);
+}
+ 
+.Reserve {
+  background-image: url(https://eft.bot/images/eft/reserve.png);
+}
+ 
+.Woods {
+  background-image: url(https://eft.bot/images/eft/woods.png);
+}
+ 
+.Shoreline {
+  background-image: url(https://eft.bot/images/eft/shoreline.png);
+}
+
+.Labs {
+  background-image: url(https://eft.bot/images/eft/labs.png);
+}
+
+.Interchange {
+  background-image: url(https://eft.bot/images/eft/interchange.png);
+}
+ 
+
+.Waiting {
+ display: none;
+ 
+}
+ 
+.Complete {
+  display: block;
+  margin: auto;
+  line-height: 70px;
+  text-align: center;
+  font-family: {fontName};
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 0.875rem;
+  color: white;
+  -webkit-text-stroke: 1px black;
+}
