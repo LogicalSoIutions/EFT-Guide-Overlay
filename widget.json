@@ -1,0 +1,82 @@
+{
+  "Customs": {
+    "type": "dropdown",
+    "label": "Customs Map Status",
+    "value": "Complete or Waiting",
+    "options": {
+      "Complete": "Complete",
+      "Waiting": "Waiting"
+    }
+  },
+  "Factory": {
+    "type": "dropdown",
+    "label": "Factory Map Status",
+    "value": "Complete or Waiting",
+    "options": {
+      "Complete": "Complete",
+      "Waiting": "Waiting"
+    }
+  },
+  "Reserve": {
+    "type": "dropdown",
+    "label": "Reserve Map Status",
+    "value": "Complete or Waiting",
+    "options": {
+      "Complete": "Complete",
+      "Waiting": "Waiting"
+    }
+  },  
+  "Woods": {
+    "type": "dropdown",
+    "label": "Woods Map Status",
+    "value": "Complete or Waiting",
+    "options": {
+      "Complete": "Complete",
+      "Waiting": "Waiting"
+    }
+  },
+  "Shoreline": {
+    "type": "dropdown",
+    "label": "Shoreline Map Status",
+    "value": "Complete or Waiting",
+    "options": {
+      "Complete": "Complete",
+      "Waiting": "Waiting"
+    }
+  },
+  "Labs": {
+    "type": "dropdown",
+    "label": "Labs Map Status",
+    "value": "Complete or Waiting",
+    "options": {
+      "Complete": "Complete",
+      "Waiting": "Waiting"
+    }
+  },
+  "Interchange": {
+    "type": "dropdown",
+    "label": "Interchange Map Status",
+    "value": "Complete or Waiting",
+    "options": {
+      "Complete": "Complete",
+      "Waiting": "Waiting"
+    }
+  },
+    "fontName": {
+    "type": "googleFont",
+    "label": "Font name",
+    "value": "Orbitron"
+  },
+  "widgetName": {
+    "type": "hidden",
+    "value": "EFT Guide Widget"
+  },
+  "widgetAuthor": {
+    "type": "hidden",
+    "value": "LogicalSolutions"
+  },
+  "widgetVersion": {
+    "type": "hidden",
+    "value": "1.0"
+  }
+}
